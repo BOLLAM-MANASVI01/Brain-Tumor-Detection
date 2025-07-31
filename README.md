@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection
+# Bone-Tumor-Detection
